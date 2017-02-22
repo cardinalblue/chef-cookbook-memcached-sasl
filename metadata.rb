@@ -1,4 +1,4 @@
-name 'memcached-sasl'
+name 'chef-cookbook-memcached-sasl'
 maintainer 'Maso Lin'
 maintainer_email 'maso.lin@cardinalblue.com'
 license 'all_rights'
