@@ -1,0 +1,9 @@
+[Unit]
+Description=memcached daemon with SASL
+After=network.target
+
+[Service]
+ExecStart=/usr/bin/memcached -u root -p <%= @port %> -m <%= @memory %> -S
+
+[Install]
+WantedBy=multi-user.target
