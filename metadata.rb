@@ -1,9 +1,9 @@
-name 'chef-repo'
-maintainer 'The Authors'
-maintainer_email 'you@example.com'
+name 'memcached-sasl'
+maintainer 'Maso Lin'
+maintainer_email 'maso.lin@cardinalblue.com'
 license 'all_rights'
-description 'Installs/Configures chef-repo'
-long_description 'Installs/Configures chef-repo'
+description 'Installs/Configures memcached-sasl'
+long_description 'Installs/Configures memcached-sasl'
 version '0.1.0'
 
 # The `issues_url` points to the location where issues for this cookbook are

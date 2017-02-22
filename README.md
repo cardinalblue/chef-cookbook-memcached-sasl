@@ -1,4 +1,3 @@
-# chef-repo
+# Chef cookbook: memcached-sasl
 
-TODO: Enter the cookbook description here.
-
+Currently, it only supports Ubuntu.
